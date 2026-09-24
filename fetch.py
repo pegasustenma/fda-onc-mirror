@@ -9,8 +9,8 @@ URL = ("https://www.fda.gov/drugs/resources-information-approved-drugs/"
 HERE = os.path.dirname(os.path.abspath(__file__))
 TSV = os.path.join(HERE, "notifications.tsv")
 META = os.path.join(HERE, "meta.json")
-UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-      "(KHTML, like Gecko) Chrome/128.0 Safari/537.36")
+# 勿冒充浏览器：仅带浏览器 UA 而缺其余浏览器头 → FDA abuse-detection 302 → apology 页 404（2026-09-24 实测）
+UA = "fda-onc-mirror/1.0 (+https://github.com/pegasustenma/fda-onc-mirror)"
 JST = timezone(timedelta(hours=9))
 
 
