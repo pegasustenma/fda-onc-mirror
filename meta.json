@@ -1,6 +1,6 @@
 {
-  "last_attempt_jst": "2026-10-16T08:42:09+09:00",
-  "last_error": "",
+  "last_attempt_jst": "2026-10-16T22:58:35+09:00",
+  "last_error": "2026-10-16T22:58:35+09:00 HTTP 200 but table parse=0 (page structure changed?)",
   "source_url": "https://www.fda.gov/drugs/resources-information-approved-drugs/oncology-cancerhematologic-malignancies-approval-notifications",
   "last_success_jst": "2026-10-16T08:42:09+09:00",
   "http_status": 200,
