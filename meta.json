@@ -1,10 +1,10 @@
 {
-  "last_attempt_jst": "2026-11-17T04:37:19+09:00",
+  "last_attempt_jst": "2026-11-17T12:56:59+09:00",
   "last_error": "",
   "source_url": "https://www.fda.gov/drugs/resources-information-approved-drugs/oncology-cancerhematologic-malignancies-approval-notifications",
-  "last_success_jst": "2026-11-17T04:37:19+09:00",
+  "last_success_jst": "2026-11-17T12:56:59+09:00",
   "http_status": 200,
-  "doc_modified": "Fri, 11/13/2026 - 00:00",
-  "rows": 207,
-  "latest_row_date": "2026-11-13"
+  "doc_modified": "Mon, 11/16/2026 - 00:00",
+  "rows": 208,
+  "latest_row_date": "2026-11-16"
 }
