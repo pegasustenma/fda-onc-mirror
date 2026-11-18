@@ -1,6 +1,6 @@
 {
-  "last_attempt_jst": "2026-11-18T03:35:31+09:00",
-  "last_error": "",
+  "last_attempt_jst": "2026-11-18T11:55:58+09:00",
+  "last_error": "2026-11-18T11:55:58+09:00 HTTPError: HTTP Error 404: Not Found",
   "source_url": "https://www.fda.gov/drugs/resources-information-approved-drugs/oncology-cancerhematologic-malignancies-approval-notifications",
   "last_success_jst": "2026-11-18T03:35:31+09:00",
   "http_status": 200,
